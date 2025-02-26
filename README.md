@@ -6,17 +6,6 @@ Stress Detection in Google Colab
 Overview
 This project focuses on detecting stress using machine learning techniques. The system analyzes physiological, behavioral, or textual data to determine stress levels in individuals. The implementation is carried out in Google Colab, leveraging its cloud-based resources for efficient processing.
 
-Features
-Data Preprocessing: Cleans and prepares input data.
-
-Feature Extraction: Extracts relevant stress indicators (e.g., heart rate, text sentiment, facial expressions, etc.).
-
-Model Training: Uses machine learning models like SVM, Random Forest, or deep learning models like CNNs and LSTMs.
-
-Real-time Detection: Predicts stress levels from live or recorded input.
-
-Visualization: Displays stress trends using charts and graphs.
-
 Requirements
 Ensure the following libraries are installed:
 
